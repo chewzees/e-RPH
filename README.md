@@ -8,31 +8,9 @@ PHP + MySQL on XAMPP.
 
 ## Screenshots
 
-### Login
-
-Admin: `admin` / `admin123` · Teacher: `teacher` / `teacher123`
-
-![Login](docs/screenshots/01-login.png)
-
-### Admin dashboard
-
 ![Admin dashboard](docs/screenshots/02-admin-dashboard.png)
 
-### Teaching records
-
-![Teaching records](docs/screenshots/03-teach-records.png)
-
-### Manage users
-
-![Manage users](docs/screenshots/05-manage-users.png)
-
-### Teacher dashboard
-
 ![Teacher dashboard](docs/screenshots/10-teacher-dashboard.png)
-
-### Teacher report
-
-![Teacher report](docs/screenshots/12-teacher-report.png)
 
 ---
 
